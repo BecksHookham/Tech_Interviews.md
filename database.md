@@ -3,7 +3,7 @@ tech interview question database
 
 ### GENERAL, CV-related
 
-- Talk me through your path to becoming retraining in tech.
+- Talk me through your path to retraining in tech.
 - How did you discover programming
 - What's your favourite thing about software development?
 - What technical books and blogs have you read or are reading at the moment?
