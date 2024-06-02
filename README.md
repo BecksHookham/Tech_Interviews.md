@@ -1,7 +1,4 @@
-# Tech_Interviews.md
-
-
-tech interview questions
+tech interview question database
 ==================================
 
 ### GENERAL, CV-related
