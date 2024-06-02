@@ -66,6 +66,7 @@ tech interview questions
 - What’s the point in writing clear git commit messages?
 
 ### Tools and Methodologies
+- Can you explain the four basic principles of Object-Oriented Programming (OOP) and provide a brief example in any programming language?
 - Which code repository do you use and why?
 - How often do you refactor your code?
 - Which SOLID principle do you think is the most important in coding?
@@ -114,11 +115,88 @@ tech interview questions
 
 ### Computer Science 101 (Questions + Knowledge)
 
+- Can you explain the difference between a linked list and an array?
+- What is recursion, and can you provide a simple example of a recursive function?
+- What is Big O notation, and why is it important? Can you give an example of an algorithm with O(n) complexity?
+- Describe the time complexity of common sorting algorithms (e.g., Bubble Sort, Quick Sort, Merge Sort). Which one is generally the fastest for large datasets and why?
+- How would you optimize a slow-running query in a database?
 - What is a `deadlock`? How do you avoid it?
 - What is a `race condition`? How do you avoid it?
 - Knowledge about Big O notation
 - Knowledge about data structures: graphs, trees, queues, stacks, linked lists, hashtables and others. 
 - Knowledge about algorithms: sorting, searching and others.
+
+### React and JavaScript
+- What is JSX and how does it differ from regular JavaScript?
+- Can you explain the concept of state and props in React?
+- What is the virtual DOM and how does React use it?
+- How do you handle events in React?
+- What is the purpose of useEffect in React hooks?
+- How do you manage state in a React application?
+- Can you explain the difference between functional and class components in React?
+- How do you handle side effects in React applications?
+- How do you approach styling components in a React application?
+
+### Asynchronous Request Handling:
+- How do you handle asynchronous operations in JavaScript?
+- What is the difference between async/await and promises?
+
+### CSS and HTML
+- What is the box model in CSS?
+- How can you center a div horizontally and vertically in CSS?
+- What is the difference between inline, inline-block, and block elements in HTML/CSS?
+- Can you describe a project where you used Tailwind CSS? What are its advantages and disadvantages?
+- What is the purpose of media queries in CSS?
+- How can you create a responsive layout using CSS Grid?
+
+### Python
+- What are the main differences between Python 2 and Python 3?
+- How do you handle exceptions in Python?
+- What are list comprehensions and how are they used in Python?
+- What is the difference between deep copy and shallow copy in Python?
+- How do you work with files in Python?
+- Can you explain how you would design a RESTful API using FastAPI?
+- How do you handle data validation and serialization in FastAPI?
+
+### Databases
+- What is the difference between SQL and NoSQL databases?
+- How do you perform a basic SELECT query in SQL?
+- What are primary keys and foreign keys in relational databases?
+- How do you create an index in SQL and why would you use one?
+- What is ACID compliance in databases?
+- How would you design a database schema for a simple e-commerce application?
+- What are the differences between SQL (e.g., PostgreSQL, MySQL) and NoSQL (e.g., MongoDB) databases?
+
+### RESTful APIs
+- What is REST and what are its main principles?
+- How do you make a GET request to a RESTful API using JavaScript?
+- What is the purpose of HTTP status codes in RESTful APIs?
+- How do you handle authentication in RESTful APIs?
+- What is the difference between PUT and PATCH methods in RESTful APIs?
+- Can you describe how you would secure a RESTful API?
+
+### Git and Version Control
+- What is Git and why is it used?
+- How do you create a new branch in Git and switch to it?
+- What is a pull request and how is it used in collaborative development?
+- How do you resolve a merge conflict in Git?
+- What is the purpose of git rebase and how does it differ from git merge?
+- Can you describe your branching strategy for a team project?
+
+### Docker and Kubernetes
+-  What is Docker and how is it used in software development?
+-  How do you create a Dockerfile and what is its purpose?
+-  What is Kubernetes and how does it relate to Docker?
+-  How do you deploy a Docker container using Kubernetes?
+-  What are some common commands to manage Docker containers?
+
+### Cloud Services
+-  What are the benefits of using cloud services?
+-  Can you explain the difference between IaaS, PaaS, and SaaS?
+-  How do you set up a virtual machine in a cloud environment like AWS or Azure?
+-  What is serverless computing and how does it work?
+-  How do you manage security and permissions in cloud services?
+
 
 ### Quiz Questions (These might come up at any stage of an interview and are not necessarily related to a tech test or project discussion)
 This is not a comprehensive list of everything that might come up. They are intended to help you practice answering unexpected questions.
