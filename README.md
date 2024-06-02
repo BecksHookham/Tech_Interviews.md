@@ -13,4 +13,4 @@ Group Exercise [Instructions](https://github.com/BecksHookham/Tech_Interviews.md
 - Example Interview Two
 - Example Interview Three
 
-How To Give Feedback
+How To [Give Feedback](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/feedback.md)
