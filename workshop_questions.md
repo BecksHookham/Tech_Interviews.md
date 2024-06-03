@@ -4,9 +4,8 @@
 #### Junior Developer Interview Questions: Interview 1
 #### Junior Developer Interview Questions: Interview 2
 #### Junior Developer Interview Questions: Interview 3
-#### More Questios if you run out.
+#### More Questions
 
-#### More questions at the end if you need more.
 
 
 ## Junior Developer Interview Number 1
