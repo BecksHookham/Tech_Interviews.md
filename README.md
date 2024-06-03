@@ -7,7 +7,7 @@ Tech Interview Prep Directory
 Group Exercise [Instructions](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/Groupwork.png)
 
 - [Practice Questions Software Dev](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/workshop_questions.md)
-- Practice Questions [Quality Engineering](https://github.com/BecksHookham/Tech_Interviews.md/tree/main)
+- Practice Questions [Quality Engineering](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/practice_SDET.md)
 
 How To [Give Feedback](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/feedback.md)
 
