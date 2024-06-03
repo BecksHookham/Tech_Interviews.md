@@ -4,8 +4,7 @@
 #### Junior Developer Interview Questions: Interview 1
 #### Junior Developer Interview Questions: Interview 2
 #### Junior Developer Interview Questions: Interview 3
-#### Data Interview Questions: Interview 1
-#### Quality Engineering: Interview 1
+#### More Questios if you run out.
 
 #### More questions at the end if you need more.
 
