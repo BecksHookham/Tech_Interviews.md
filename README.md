@@ -1,9 +1,6 @@
 Tech Interview Prep Directory
 ==================================
 
-### INTERVIEW QUESTIONS
-
-An almost exhaustive [list of technical questions.](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/database.md)
 
 ### WORKSHOP
 
@@ -15,6 +12,8 @@ How To [Give Feedback](https://github.com/BecksHookham/Tech_Interviews.md/blob/m
 
 ### MORE QUESTIONS
 
-[SWIFT](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/swift.md)
+### INTERVIEW QUESTIONS
 
-[XCODE](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/Xcode.md)
+An almost exhaustive [list of technical questions.](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/database.md)
+
+
