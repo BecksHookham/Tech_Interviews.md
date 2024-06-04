@@ -64,6 +64,72 @@ The interviewer might also ask very specific questions about the code you've wri
 
 _These questions are designed to dig deeper into Danielle's Vodafone tech test above._
 
-#Pairing Interviews
+## Pairing Interviews
+
+This is most often a codewars type exercise but might also involve working on an issue in the company code base with a more senior developer. Things to keep in mind when you're at a pairing interview.
+
+**Ask Clarifying questions**: 
+
+_Do they want you to use TDD or is it more important that you find a solution in the allocated time?_
+
+_Is there anything in particular they would like you to demonstrate through?_
+
+_Can you use Google, ChatGPT or other tools?_
+
+_Shall I drive or navigate?_
+
+_Can I ask you questions as we go through?_
+
+**Talk Out Loud**: 
+
+It's a great idea to practice this on the regular using code problems like:
+
+* [Codewars](https://www.codewars.com/)
+
+*[Exercism](https://exercism.org/)
+
+*[Leetcode](https://leetcode.com/)
+
+The interviewer is really interested in hearing you think through your process and decision making process outloud. If you get stuck - articulate it - and explain how you are going to unblock yourself.
+
+**Keep Checking In With The Interviewer**: 
+
+* How do they think you're doing? Do they want to see more/less of anything?
+
+**Diagram Solutions**: 
+
+If you're going into an office keep a bit of paper and pen to hand. You may have an opportunity to sketch out a little diagram of what you intend to build before you start - and devs love that. It works online as well, actually. Just hold your notepad up.
+
+**Be a good pair partner**: 
+
+It's easy to write but so difficult to do but the more you can relax, the better. Some of the best advice I've heard is that in a pairing interview, the engineer working with you is really trying to get a sense of whether you're someone they would enjoy tackling a code problem with.
+
+
+## Discussion of Past Projects
+
+Another catagory (usually part of an interview with a seperate coding test) is questions around past projects. Often it's your final project because that's usually the most complex project in your portfolio. As the job-hunt goes on, it becomes easy to forget the details and fluff the questions. Do review one or two projects before you head into an interview. 
+
+
+## Tech Chit Chat
+
+These questions can come up at any time in an interview (even the culture stage) and are used to assess your breath of technical knowledge. A couple of examples might be
+
+* Explain how the internet works to a five year old
+
+* What are webhooks?
+
+* What's the command line?
+
+* What's the difference between a bit and a byte?
+
+The better questions are related to a project you've created which gives the questions more context and you're more likely to know the answer.
+
+The crucial thing to remember with these questions is...
+
+* It's okay to say I don't know! But this is how I'd find out...
+
+
+
+
 
 
