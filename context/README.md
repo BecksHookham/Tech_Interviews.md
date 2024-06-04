@@ -2,7 +2,10 @@
 
 ## The Take Home Tech Test
 
-The take home tech test might look something like this or this.
+The take home tech test might look something like this:
+* [Just Eat Recruitment Test](https://github.com/justeat/JustEat.RecruitmentTest)
+* (Rightmove Front-End)[https://github.com/rightmove/remote-front-end-test]
+* (Sky)[https://github.com/skybet/tech-test}
 
 When you receive a tech test, keep the following things in mind:
 
