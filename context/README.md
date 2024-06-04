@@ -64,5 +64,6 @@ The interviewer might also ask very specific questions about the code you've wri
 
 _These questions are designed to dig deeper into Danielle's Vodafone tech test above._
 
+#Pairing Interviews
 
 
