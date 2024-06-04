@@ -21,8 +21,8 @@
 
 1. **Best Practices**: What practices do you follow to ensure your code is clean and maintainable before submitting it for review?
 2. **OOP**:Explain the four pillars of Object-Oriented Programming with examples.
-3. **Debugging**:Can you walk me through a specific instance where you encountered a challenging bug in your code? How did you identify the root cause, and what steps did you take to fix it?
-4. **Data Structures**:Can you explain the differences between arrays and linked lists? What are the advantages and disadvantages of each?
+3. **Debugging**: Can you walk me through a specific instance where you encountered a challenging bug in your code? How did you identify the root cause, and what steps did you take to fix it?
+4. **Data Structures**: Can you explain the differences between arrays and linked lists? What are the advantages and disadvantages of each?
 5. **Docker**:Explain the difference between a Docker container and a virtual machine.
 
 
@@ -31,8 +31,8 @@
 ### Behavioural Questions
 
 1.  **Motivation**: Tell me about yourself.
-2.  **Continual Learning**:How do you stay up-to-date with new programming languages, frameworks, and technologies? Can you share a recent example of something new you learned and how you applied it?
-3.  **Adaptability and Coachability**Can you describe a time when you had to learn a new technology or tool quickly? How did you approach the learning process?
+2.  **Continual Learning**: How do you stay up-to-date with new programming languages, frameworks, and technologies? Can you share a recent example of something new you learned and how you applied it?
+3.  **Adaptability and Coachability**: Can you describe a time when you had to learn a new technology or tool quickly? How did you approach the learning process?
 
 ### Technical Questions
 
