@@ -9,7 +9,7 @@ Group Exercise [Instructions](https://github.com/BecksHookham/Tech_Interviews.md
 - Practice Questions [Software Dev](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/workshop_questions.md)
 - Practice Questions [Quality Engineering](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/practice_SDET.md)
 - Practice Quesions [DevOps](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/practice_DevOps.md)
-- Practice Questions Data Engineer.. coming soon.
+- Practice Questions [Data Engineer](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/dataeng.md)
 
 How To [Give Feedback](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/feedback.md)
 
