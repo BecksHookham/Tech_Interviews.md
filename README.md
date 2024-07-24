@@ -13,6 +13,22 @@ Group Exercise [Instructions](https://github.com/BecksHookham/Tech_Interviews.md
 
 How To [Give Feedback](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/feedback.md)
 
+### GROUP OF 3
+
+Each interview should be 15 minutes in length.
+
+10 Minutes of Questions
+
+5 Minutes of Feedback
+
+### GROUP OF 2
+
+Each interview should be 20 minutes in length.
+
+15 Minutes of Questions
+
+5 Minutes of Feedback
+
 ### MORE QUESTIONS
 
 ### INTERVIEW QUESTIONS
