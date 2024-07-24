@@ -17,7 +17,7 @@ How To [Give Feedback](https://github.com/BecksHookham/Tech_Interviews.md/blob/m
 
 ### INTERVIEW QUESTIONS
 
-If you have already taken part in this workshop before and would like some more tech focused questions, [here you go](https://github.com/BecksHookham/Tech_Interviews.md/tree/main).
+If you have already taken part in this workshop before and would like some more tech focused questions, [here you go](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/secondinterview.md).
 
 An almost exhaustive [list of technical questions.](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/database.md)
 
