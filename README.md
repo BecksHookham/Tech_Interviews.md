@@ -31,11 +31,12 @@ Each interview should be 20 minutes in length.
 
 ### MORE QUESTIONS
 
-### INTERVIEW QUESTIONS
 
 If you have already taken part in this workshop before and would like some more tech focused questions, [here you go](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/secondinterview.md).
 
-An almost exhaustive [list of technical questions.](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/database.md)
+Plus, an almost exhaustive [list of technical questions.](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/database.md)
+
+And more 
 
 [TDD Drills](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/TDD.md)
 
