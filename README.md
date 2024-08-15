@@ -1,44 +1,33 @@
-Tech Interview Prep Directory
-==================================
+# Tech Interview Prep Directory
 
+## Workshop
 
-### WORKSHOP
+- **Group Exercise**: [Instructions](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/Groupwork.png)
+- **Practice Questions**:
+  - [Software Development](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/workshop_questions.md)
+  - [Quality Engineering](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/practice_SDET.md)
+  - [DevOps](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/practice_DevOps.md)
+  - [Data Engineering](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/dataeng.md)
 
-Group Exercise [Instructions](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/Groupwork.png)
+- **How to Give Feedback**: [Guide](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/feedback.md)
 
-- Practice Questions [Software Dev](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/workshop_questions.md)
-- Practice Questions [Quality Engineering](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/practice_SDET.md)
-- Practice Quesions [DevOps](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/practice_DevOps.md)
-- Practice Questions [Data Engineer](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/dataeng.md)
+## Interview Structure
 
-How To [Give Feedback](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/feedback.md)
+### Group of 3
 
-### GROUP OF 3
+- **Duration**: 15 minutes
+  - 10 minutes for questions
+  - 5 minutes for feedback
 
-Each interview should be 15 minutes in length.
+### Group of 2
 
-10 Minutes of Questions
+- **Duration**: 20 minutes
+  - 15 minutes for questions
+  - 5 minutes for feedback
 
-5 Minutes of Feedback
+## Additional Resources
 
-### GROUP OF 2
-
-Each interview should be 20 minutes in length.
-
-15 Minutes of Questions
-
-5 Minutes of Feedback
-
-### MORE QUESTIONS
-
-
-If you have already taken part in this workshop before and would like some more tech focused questions, [here you go](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/secondinterview.md).
-
-Plus, an almost exhaustive [list of technical questions.](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/database.md)
-
-And more 
-
-[TDD Drills](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/TDD.md)
-
-
-
+- **More Practice Questions**:
+  - If you've participated in this workshop before and need more technical questions: [Click here](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/secondinterview.md).
+  - An extensive [list of technical questions](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/database.md).
+  - [TDD Drills](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/TDD.md).
