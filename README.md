@@ -28,6 +28,6 @@
 ## Additional Resources
 
 - **More Practice Questions**:
-  - If you've participated in this workshop before and need more technical questions: [Click here](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/secondinterview.md).
-  - An extensive [list of technical questions](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/database.md).
+  - [More technical questions](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/database.md).
   - [TDD Drills](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/TDD.md).
+  - [React Samples Interview](React.md)
