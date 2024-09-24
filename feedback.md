@@ -21,7 +21,7 @@ Instead, try to sum up your thoughts about the interview in two or three constru
 At least one note should comment on a positive behaviour you thought was effective.
 Then give one or two two notes of contructive criticim. Be specific and back up your point with an example.
 
-When you're in your role as observer it might be helpful to think about the folliwing things:
+When you're in your role as observer it might be helpful to think about the following things:
 
 * Did the interviewee go straight into answering the questions without taking a breath to think?
 * Are they making appropriate eye contact?
