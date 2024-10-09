@@ -12,50 +12,50 @@
 
 ### Behavioural Questions
 
-1. **Motivation**: Talk me through your journey from your previous career to software development.
-2. **Motivation**: Can you tell me about something you've learned recently?
-3. **Willingness to learn**: Describe a situation where you had to acquire a new skill outside of your comfort zone. How did you handle it, and what was the result?
+1. Talk me through your journey from your previous career to software development.
+2. Can you tell me about something you've learned recently?
+3. Describe a situation where you had to acquire a new skill outside of your comfort zone. How did you handle it, and what was the result?
 
 
 ### Technical Questions
 
-1. **Best Practices**: What practices do you follow to ensure your code is clean and maintainable before submitting it for review?
-2. **OOP**:Explain the four pillars of Object-Oriented Programming with examples.
-3. **Debugging**: Can you walk me through a specific instance where you encountered a challenging bug in your code? How did you identify the root cause, and what steps did you take to fix it?
-4. **Data Structures**: Can you explain the differences between arrays and linked lists? What are the advantages and disadvantages of each?
-5. **Docker**:Explain the difference between a Docker container and a virtual machine.
+1.What practices do you follow to ensure your code is clean and maintainable before submitting it for review?
+2. Explain the basics of JavaScript and its role in web development.
+3. What are JavaScript Arrays?
+4. Can you explain the differences between arrays and linked lists? What are the advantages and disadvantages of each?
+5. Can you walk me through a specific instance where you encountered a challenging bug in your code? How did you identify the root cause, and what steps did you take to fix it
 
 
 ## Junior Developer Interview Number 2
 
 ### Behavioural Questions
 
-1.  **Motivation**: Tell me about yourself.
-2.  **Continual Learning**: What's your favourite programming language? What are the pros and cons of that language in your opinion?
-3.  **Adaptability and Coachability**: Can you describe a time when you had to learn a new technology or tool quickly? How did you approach the learning process?
+1.  Tell me about yourself.
+2.  What's your favourite programming language? What are the pros and cons of that language in your opinion?
+3.  Can you describe a time when you had to learn a new technology or tool quickly? How did you approach the learning process?
 
 ### Technical Questions
 
-1. **Best Practices**: What are some best practices you follow to write clean and maintainable code? Can you give an example of how you applied these practices in a recent project?
-2. **Coding Fundamentals**: Explain the concept of "scope" in programming. How does scope affect variable accessibility in a JavaScript function?
-3. **Debugging**: You are working on a web application and encounter a bug that only appears in production, not in your local development environment. How would you approach debugging this issue?
-4. **TDD (Test-Driven Development)**: Can you describe the process of Test-Driven Development and explain how you would implement it in a new feature you are developing? What are the benefits and challenges of using TDD?
-5. **OOP (Object-Oriented Programming)**: What are the four main principles of Object-Oriented Programming (OOP)? Can you provide an example of how you used these principles to design a class or a set of classes in a project?
+1. What are some best practices you follow to write clean and maintainable code? Can you give an example of how you applied these practices in a recent project?
+2. Can you describe the process of Test-Driven Development and explain how you would implement it in a new feature you are developing? What are the benefits and challenges of using TDD?
+3. You are working on a web application and encounter a bug that only appears in production, not in your local development environment. How would you approach debugging this issue?
+4. What is object-oriented programming (OOP)?
+5. What is Agile methodology?
 
 ## Junior Developer Interview Number 3
 
-1. **Motivation**: What motivated you to pursue a career in software development, especially without a formal computer science degree?
-2. **Continual Learning**: How would you go about learning a new language or framework?
-3. **Problem-Solving Enjoyment**: What is it about coding and problem-solving that you find most rewarding or enjoyable? Can you describe a moment when you felt particularly proud of solving a tough problem?
+1. What motivated you to pursue a career in software development, especially without a formal computer science degree?
+2. How would you go about learning a new language or framework?
+3. What is it about coding and problem-solving that you find most rewarding or enjoyable? Can you describe a moment when you felt particularly proud of solving a tough problem?
 
 
 ### Technical Questions
 
-1. **Code Review**: When reviewing a peer’s code, what are the top three things you look for, and why? Can you give an example of a constructive suggestion you made during a code review?
-2. **SOLID Principles**: Can you explain the Single Responsibility Principle (SRP) and how it applies to class design in Object-Oriented Programming? Why is it important?
-3. **DRY Principle**: What does the DRY (Don't Repeat Yourself) principle mean, and how do you apply it in your code? Can you provide an example where you refactored code to follow the DRY principle?
+1. When reviewing a peer’s code, what are the top three things you look for, and why? Can you give an example of a constructive suggestion you made during a code review?
+2.Can you explain the Single Responsibility Principle (SRP) and how it applies to class design in Object-Oriented Programming? Why is it important?
+3. What does the DRY (Don't Repeat Yourself) principle mean, and how do you apply it in your code? Can you provide an example where you refactored code to follow the DRY principle?
 4. **Debugging**: Imagine you have a piece of code that is supposed to fetch data from an API and display it on a web page, but nothing is showing up. How would you go about debugging this issue? What tools and methods would you use?
-5. **Beginners Computer Science**: Can you explain the difference between stack and heap memory? How do they relate to variables in languages like JavaScript or Python?
+5. What is an API? Assume I know nothing about coding.
 
 
 
