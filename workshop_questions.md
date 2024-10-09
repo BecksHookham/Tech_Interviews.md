@@ -52,9 +52,9 @@
 ### Technical Questions
 
 1. When reviewing a peer’s code, what are the top three things you look for, and why? Can you give an example of a constructive suggestion you made during a code review?
-2.Can you explain the Single Responsibility Principle (SRP) and how it applies to class design in Object-Oriented Programming? Why is it important?
+2. Can you explain the Single Responsibility Principle (SRP) and how it applies to class design in Object-Oriented Programming? Why is it important?
 3. What does the DRY (Don't Repeat Yourself) principle mean, and how do you apply it in your code? Can you provide an example where you refactored code to follow the DRY principle?
-4. **Debugging**: Imagine you have a piece of code that is supposed to fetch data from an API and display it on a web page, but nothing is showing up. How would you go about debugging this issue? What tools and methods would you use?
+4. Imagine you have a piece of code that is supposed to fetch data from an API and display it on a web page, but nothing is showing up. How would you go about debugging this issue? What tools and methods would you use?
 5. What is an API? Assume I know nothing about coding.
 
 
