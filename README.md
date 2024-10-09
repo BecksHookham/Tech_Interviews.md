@@ -2,7 +2,6 @@
 
 ## Workshop
 
-- **Group Exercise**: [Instructions](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/Groupwork.png)
 - **Practice Questions**:
   - [Software Development](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/workshop_questions.md)
   - [Quality Engineering](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/practice_SDET.md)
