@@ -13,7 +13,7 @@
 ### Behavioural Questions
 
 1. **Motivation**: Talk me through your journey from your previous career to software development.
-2. **Motivation**: Can you tell me about a personal project or open-source contribution you’ve worked on that you're particularly proud of? What motivated you to work on it?
+2. **Motivation**: Can you tell me about something you've learned recently?
 3. **Willingness to learn**: Describe a situation where you had to acquire a new skill outside of your comfort zone. How did you handle it, and what was the result?
 
 
@@ -31,7 +31,7 @@
 ### Behavioural Questions
 
 1.  **Motivation**: Tell me about yourself.
-2.  **Continual Learning**: How do you stay up-to-date with new programming languages, frameworks, and technologies? Can you share a recent example of something new you learned and how you applied it?
+2.  **Continual Learning**: What's your favourite programming language? What are the pros and cons of that language in your opinion?
 3.  **Adaptability and Coachability**: Can you describe a time when you had to learn a new technology or tool quickly? How did you approach the learning process?
 
 ### Technical Questions
@@ -45,7 +45,7 @@
 ## Junior Developer Interview Number 3
 
 1. **Motivation**: What motivated you to pursue a career in software development, especially without a formal computer science degree?
-2. **Passion Projects**: Can you tell me about a personal coding project you’ve worked on in your own time? What inspired you to start it, and what did you learn from the experience?
+2. **Continual Learning**: How would you go about learning a new language or framework?
 3. **Problem-Solving Enjoyment**: What is it about coding and problem-solving that you find most rewarding or enjoyable? Can you describe a moment when you felt particularly proud of solving a tough problem?
 
 
