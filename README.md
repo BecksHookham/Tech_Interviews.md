@@ -7,7 +7,7 @@
   - [Quality Engineering](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/practice_SDET.md)
   - [DevOps](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/practice_DevOps.md)
   - [Data Engineering](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/dataeng.md)
-  - [OOP]
+  - [OOP](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/OOP.md)
 
 - **How to Give Feedback**: [Guide](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/feedback.md)
 
@@ -31,3 +31,5 @@
   - [More technical questions](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/database.md).
   - [TDD Drills](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/TDD.md).
   - [React Samples Interview](React.md)
+  - [OOP](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/OOP.md)
+
