@@ -7,6 +7,7 @@
   - [Quality Engineering](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/practice_SDET.md)
   - [DevOps](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/practice_DevOps.md)
   - [Data Engineering](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/dataeng.md)
+  - [OOP]
 
 - **How to Give Feedback**: [Guide](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/feedback.md)
 
